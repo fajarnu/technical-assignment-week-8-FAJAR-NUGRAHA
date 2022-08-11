@@ -1,4 +1,4 @@
-import pymongo #mengimport library pymongo      
+import pymongo    
 import datetime
 from flask import Flask,request 
 
